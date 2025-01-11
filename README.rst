@@ -1,1 +1,1 @@
-[documentation](https://juliafleckenstein.github.io/dr-anne-sophie-fleckenstein/docs/index.md)
+[documentation](https://juliafleckenstein.github.io/dr-anne-sophie-fleckenstein/)
