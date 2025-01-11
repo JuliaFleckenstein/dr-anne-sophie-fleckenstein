@@ -19,7 +19,7 @@ paginate:         5
 #version:          2.1.0
 
 github:
-  repo:           https://github.com/augmentedfabricationlab/dr-anne-sophie-fleckenstein
+  repo:           https://juliafleckenstein.github.io/dr-anne-sophie-fleckenstein/
 
 plugins:
   - jekyll-feed
