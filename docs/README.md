@@ -7,8 +7,6 @@
 * [Test site locally](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)
 * [Poole Theme](https://github.com/poole/hyde#readme)
 
-* [L.E.A.R.N. Site](https://le-ar-n.github.io/le-ar-n/)
-
 # Useful Hints
 
 cmd line tools:
@@ -19,12 +17,8 @@ cmd line tools:
 * bundle exec jekyll serve
 
 View locally in browser:
-[http://127.0.0.1:4000/le-ar-n](http://127.0.0.1:4000/le-ar-n)
+[http://127.0.0.1:4000/dr-anne-sophie-fleckenstein//](http://127.0.0.1:4000/dr-anne-sophie-fleckenstein//)
 
-# Todos
-
-* Put sessions into a Submenu into the Sidebar
-* Embed Videos
 
 
 
