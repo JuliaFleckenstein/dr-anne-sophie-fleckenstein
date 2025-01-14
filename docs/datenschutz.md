@@ -3,9 +3,8 @@ layout: page
 title: Datenschutzerklärung
 ---
 
-# Datenschutzerklärung
 
-## Datenschutz
+# Datenschutz
 
 1. Allgemeine Hinweise
 Datenschutz ist bei uns von hohem Stellenwert und wird als ausgesprochen wichtig erachtet.
@@ -26,23 +25,22 @@ Mittels dieser Datenschutzerklärung möchte unsere Praxis Sie darüber informie
 Verantwortlicher ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in der EU geltender Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist:
 
-Hämatologisch-Onkologische Praxis Schongau, Dr. Doris Fleckenstein
-Nordendstraße 5
-86956 Schongau
+Frauenärzte am Flößerplatz, Dr. Franz Stechele I Dr. Katrin Denkinger
+xxxstr.xx
+xxx Landsberg am Lech
 Deutschland
-Tel. 08861 9336486
-Email  fleckenstein@onkologie-schongau.de
+Tel. xxxx
+Email  xxxxx
 
 3. Name und Anschrift des Datenschutzbeauftragten
 Der Datenschutzbeauftragte des für die Verarbeitung Verantwortlichen ist:
 
-Dr. Doris Fleckenstein
-
-Nordendstraße 5
-86956 Schongau
+Frauenärzte am Flößerplatz, Dr. Franz Stechele I Dr. Katrin Denkinger
+xxxstr.xx
+xxx Landsberg am Lech
 Deutschland
-Tel. 08861 9336486
-E-Mail: datenschutz@onkologie-schongau.de
+Tel. xxxx
+Email  xxxxx
 
 Betroffene Personen können sich jederzeit bei Fragen zum Datenschutz direkt an unseren Datenschutzbeauftragten wenden.
 
