@@ -65,20 +65,31 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
+    background-color: #ff98c3;
+
   }
 }
 
+.sidebar-logo {
+  display: block;
+  margin: 0 auto 1rem auto; /* Center the logo and add some bottom margin */
+  max-width: 100%; /* Ensure the logo fits within the sidebar */
+  height: auto; /* Maintain aspect ratio */
+}
+
+
+
 /* Sidebar links */
 .sidebar a {
-  color: white;
+  color: #ff98c3;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: white;
+  color: #ff98c3;
   margin-top: 0;
   /* font-family: "Abril Fatface", serif;*/
-  font-size: 2.25rem;
+  font-size: 2.00rem;
 }
 
 /* Sidebar nav */
@@ -274,11 +285,11 @@ img.drop-corners-left {
 }
 .theme-base-0e .sidebar a:hover{
   color: rgb(255 238 98);
-  text-decoration: line-through;
+  text-decoration: underline;
 }
 .theme-base-0e .sidebar a:active{
   color: rgb(255 238 98);
-  text-decoration: line-through;
+  text-decoration: underline;
 }
 
 .theme-base-0e .content a{
@@ -287,11 +298,11 @@ img.drop-corners-left {
 }
 .theme-base-0e .related-posts li a:hover{
   color: rgb(255 238 98);
-  text-decoration: line-through;
+  text-decoration: underline;
 }
 .theme-base-0e .related-posts li a:active{
   color: rgb(255 238 98);
-  text-decoration: line-through;
+  text-decoration: underline;
 }
 
 
