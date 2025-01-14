@@ -11,7 +11,7 @@ title:            Dr. Anne-Sophie Fleckenstein
 tagline:          'Dr. Anne-Sophie Fleckenstein'
 description:      'Website'
 baseurl: "/dr-anne-sophie-fleckenstein/" # the subpath of your site, e.g. /blog
-url: "https://JuliaFleckenstein.github.io/dr-anne-sophie-fleckenstein/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://JuliaFleckenstein.github.io/dr-anne-sophie-fleckenstein/docs/" # the base hostname & protocol for your site, e.g. http://example.com
 
 paginate:         5
 
