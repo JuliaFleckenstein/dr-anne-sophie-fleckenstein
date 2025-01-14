@@ -3,8 +3,6 @@ layout: page
 title: Impressum
 ---
 
-# Impressum
-
 Pflichtangaben nach §6 TDG (Teledienstgesetz)
 
 Praxisanschrift

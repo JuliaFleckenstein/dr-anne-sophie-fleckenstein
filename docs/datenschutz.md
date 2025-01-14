@@ -3,9 +3,6 @@ layout: page
 title: Datenschutzerklärung
 ---
 
-
-# Datenschutz
-
 1. Allgemeine Hinweise
 Datenschutz ist bei uns von hohem Stellenwert und wird als ausgesprochen wichtig erachtet.
 
