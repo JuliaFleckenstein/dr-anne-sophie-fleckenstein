@@ -1,6 +1,8 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+      <!-- Add your logo here -->
+      <img src="{{ site.baseurl }}/images/logo_stechele.png" alt="Logo" class="sidebar-logo">
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
@@ -26,7 +28,6 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

@@ -4,10 +4,6 @@ title: About
 ---
 # Informationen zur vaginalen Lasertherapie
 
-<div class="sidebar">
-  <img src="{{site.baseurl}}images/logo_stechele.png" alt="Logo" class="sidebar-logo">
-  <!-- Other sidebar content -->
-</div>
 
 
 **Liebe Patientin**,
