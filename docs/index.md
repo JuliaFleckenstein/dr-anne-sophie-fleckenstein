@@ -12,7 +12,7 @@ Sie interessieren sich für eine Laserbehandlung im Vaginalbereich.
 Hierbei wird mit einem speziellen Laser die Haut schonend behandelt. Dieses Verfahren
 kann bei verschiedenen Beschwerden helfen, z. B. bei:
 
-* leichter bis mittlerer Blasenschwäche **_(Belastungs-, und Dranginkontinenz)_**
+* leichter bis mittlerer Blasenschwäche **_(Belastungs- und Dranginkontinenz)_**
 * Scheidentrockenheit **_(vulvovaginale Atrophie)_**
 * Wechseljahrsbeschwerden **_(Menopausensyndrom)_**
 * Lockerung der Scheidenmuskulatur **_(Vaginales Relaxationssyndrom)_**
