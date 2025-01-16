@@ -11,7 +11,7 @@ title:            Dr. Anne-Sophie Fleckenstein
 tagline:          'Dr. Anne-Sophie Fleckenstein'
 description:     Fachärztin für Gynäkologie und Geburtshilfe
 baseurl:        "/docs/" # the subpath of your site, e.g. /blog
-url:            "http://dr-anne-sophie-fleckenstein.de/" # the base hostname & protocol for your site, e.g. http://example.com
+url:            "http://dr-anne-sophie-fleckenstein.de" # the base hostname & protocol for your site, e.g. http://example.com
 
 paginate:         5
 
