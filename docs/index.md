@@ -4,8 +4,6 @@ title: About
 ---
 # Informationen zur vaginalen Lasertherapie
 
-
-
 **Liebe Patientin**,
 
 Sie interessieren sich für eine Laserbehandlung im Vaginalbereich.
