@@ -82,54 +82,53 @@ neue Kollagenfasern, sodass das Gewebe dadurchwieder frischer und straffer wird.
 
 ### 6. Konkrete Fragen:
 
-* #### Wie läuft die Behandlung genau ab?
+#### Wie läuft die Behandlung genau ab?
   
 Vor der Behandlung wird eine betäubende Creme aufgetragen. Die Behandlung selbst
 erfolgt auf dem gynäkologischen Stuhl. Der Arzt/die Ärztin führt eine Sonde in die Scheide
 ein und bestrahlt die Schleimhaut mit dem Laser.
 
 <figure>
-  <img src="{{site.baseurl}}images/lasersonde.png" alt="Die Lasersonde intravaginal dargestellt." style="width:30%" class="center">
+  <img src="{{site.baseurl}}images/lasersonde.png" alt="Die Lasersonde intravaginal dargestellt." style="width:50%" class="center">
   <figcaption>Die Lasersonde intravaginal dargestellt.</figcaption>
 </figure>
 
-
-* #### Wie lange dauert die Laserbehandlung?
+#### Wie lange dauert die Laserbehandlung?
   
 Die Behandlung dauert nur 15-20 Minuten.
 
-* #### Ist die Laserbehandlung schmerzhaft?
+#### Ist die Laserbehandlung schmerzhaft?
   
 Nein, die meisten Patientinnen spüren nur ein Wärmegefühl.
 
-* #### Welche Risiken sind mit der Laserbehandlung verbunden?
+#### Welche Risiken sind mit der Laserbehandlung verbunden?
   
 In den ersten Tagen nach der Behandlung kann es zu leichten Irritationen kommen.
 Sollten weitere Beschwerden auftreten, wenden Sie sich bitte an Ihren Arzt/Ihre Ärztin.
 
-* #### Wie lange ist die Genesungszeit nach der Laserbehandlung?
+#### Wie lange ist die Genesungszeit nach der Laserbehandlung?
   
 Es ist keine besondere Nachsorge erforderlich. Sie können Ihre normalen Aktivitäten
 sofort wieder aufnehmen.
 
-* #### Wie lange muss ich nach der Laserbehandlung warten, ehe ich Geschlechtsverkehr haben kann?
+#### Wie lange muss ich nach der Laserbehandlung warten, ehe ich Geschlechtsverkehr haben kann?
   
 Es wird empfohlen, mindestens 72 Stunden nach der Behandlung zu warten.
 
-* #### Wie viele Sitzungen sind notwendig?
+#### Wie viele Sitzungen sind notwendig?
   
 In der Regel sind drei Sitzungen im Abstand von 4-6 Wochen notwendig.
 
-* #### Wie lange nach einer Geburt muss ich warten bis ich mich lasern lassen kann?
+#### Wie lange nach einer Geburt muss ich warten bis ich mich lasern lassen kann?
   
 Normalerweise 6-8 Wochen
 
-* #### Was kann der Laser außerdem?
+#### Was kann der Laser außerdem?
   
 Es gibt eine Vielzahl an anderen Anwendungsmöglichkeiten, beispielsweise vor oder
 nach einer Beckenbodenoperation zur Verbesserung der Durchblutung und Heilung.
 
-* #### Was kostet die Laserbehandlung?
+#### Was kostet die Laserbehandlung?
   
 Die Kosten variieren je nach Praxis. Bitte fragen Sie Ihren Arzt/Ihre Ärztin nach den
 genauen Preisen.
