@@ -19,7 +19,7 @@ title: Impressum
 >
 >Email: info@gyn-landsberg.de
 
-**Gesetzliche Berufsbezeichnung der in der Gemeinschaftspraxis tätigen Ärzte:**
+**Gesetzliche Berufsbezeichnung der in der Gemeinschaftspraxis tätigen Ärztin:**
 >
 >Dr. med. Anne-Sophie Fleckenstein
 >
