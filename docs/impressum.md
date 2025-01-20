@@ -9,6 +9,8 @@ title: Impressum
 
 >Frauenärzte am Flößerplatz
 >
+>Dr. Franz Stechele I Dr. Katrin Denkinger
+>
 >Adolph-Kolping-Str. 130
 >
 >86899 Landsberg am Lech
