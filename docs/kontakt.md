@@ -9,7 +9,7 @@ title: Kontakt
 **Adresse:**
 > Dr. Anne-Sophie Fleckenstein
 >
-> Fachärztin für Frauenheilkunde und Geburtshilfe 
+> Fachärztin für Gynäkologie und Geburtshilfe 
 >
 >Adolph-Kolping-Str. 130a
 >
