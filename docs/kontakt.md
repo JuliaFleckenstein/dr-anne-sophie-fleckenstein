@@ -22,7 +22,7 @@ Dr. Franz Stechele I Dr. Katrin Denkinger
 > 0049 8191 1313
 
 #### Dr. Anne-Sophie Fleckenstein
-  <img src="{{site.baseurl}}images/dr-fleckenstein.jpg" alt="Dr. Anne-Sophie Fleckenstein" style="width:150px" class="drop-corners">
+<img src="{{site.baseurl}}images/dr-fleckenstein.jpg" alt="Dr. Anne-Sophie Fleckenstein" style="width:150px" class="drop-corners">
 
 
 
