@@ -11,7 +11,7 @@ Dr. Franz Stechele I Dr. Katrin Denkinger
 >
 > Fachärztin für Gynäkologie und Geburtshilfe 
 >
->Adolph-Kolping-Str. 130a
+> Adolph-Kolping-Str. 130a
 >
 > D - 86899 Landsberg am Lech
 
@@ -20,3 +20,8 @@ Dr. Franz Stechele I Dr. Katrin Denkinger
 
 **Telefon:**
 > 0049 8191 1313
+
+<figure>
+  <img src="{{site.baseurl}}images/dr-fleckenstein.jpg"  style="width:50%" class="left">
+  <figcaption>Dr. Anne-Sophie Fleckenstein</figcaption>
+</figure>
