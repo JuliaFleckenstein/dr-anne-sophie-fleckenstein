@@ -2,6 +2,7 @@
 layout: page
 title: Datenschutzerklärung
 order: 3
+page_class: datenschutz-page
 ---
 
 #### 1. Allgemeine Hinweise

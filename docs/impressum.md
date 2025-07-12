@@ -2,6 +2,7 @@
 layout: page
 title: Impressum
 order: 4
+page_class: links
 ---
 
 ### Pflichtangaben nach §6 TDG (Teledienstgesetz)
