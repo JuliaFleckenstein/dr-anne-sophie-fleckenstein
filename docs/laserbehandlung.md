@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Laserbehandlung
+title: vaginale Lasertherapie
 ---
-
-
-# Informationen zur vaginalen Lasertherapie
 
 
 **Liebe Patientin**,
