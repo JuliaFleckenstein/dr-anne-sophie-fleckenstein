@@ -168,4 +168,4 @@ Dieser Text dient **nur** zur allgemeinen Information. Er ersetzt kein persönli
   <figcaption>Vor, während und nach der Laserbehandlung.</figcaption>
 </figure>
 
-**Herzlichen Dank für die Bereitstellung des Bildmaterials an Achim Schmieder Firma INTROS-Laser**
+**Herzlichen Dank für die Bereitstellung des Bildmaterials an Achim Schmieder der Firma INTROS-Laser**
