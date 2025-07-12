@@ -151,10 +151,10 @@ Schwimmbad verzichten.
 **Zusätzliche Informationen:**
 
 * Die Laserbehandlung kann auch bei Frauen angewendet werden, die unter einer hormonellen
-* Therapie stehen oder keine hormonelle Therapie bekommen dürfen und z.B.an Krebs erkrankt sind.
+Therapie stehen oder keine hormonelle Therapie bekommen dürfen und z.B.an Krebs erkrankt sind.
   
 * Die Behandlung kann dazu beitragen, die Spannkraft der Scheide zu verbessern und die sexuelle
-* Befriedigung zu steigern.
+Befriedigung zu steigern.
   
 * In Studien wurde eine hohe Zufriedenheit mit der Laserbehandlung festgestellt.
   
