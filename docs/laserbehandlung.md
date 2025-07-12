@@ -88,7 +88,7 @@ ein und bestrahlt die Schleimhaut mit dem Laser.
 
 
 <figure>
-  <img src="{{site.baseurl}}images/querschnitt-weibliches-Becken.jpg" alt="Querschnitt durch das weibliche Becken." style="width:50%" class="center">
+  <img src="{{site.baseurl}}/images/querschnitt-weibliches-Becken.jpg" alt="Querschnitt durch das weibliche Becken." style="width:60%" class="center">
   <figcaption>Querschnitt durch das weibliche Becken.</figcaption>
 </figure>
 
@@ -162,7 +162,7 @@ Dieser Text dient **nur** zur allgemeinen Information. Er ersetzt kein persönli
 ### Bilder zum besseren Verständnis
 
 <figure>
-  <img src="{{site.baseurl}}images/picture-new.jpg" alt="Vor, während und nach der Laserbehandlung." style="width:50%" class="center">
+  <img src="{{site.baseurl}}/images/picture-new.jpg" alt="Vor, während und nach der Laserbehandlung." style="width:60%" class="center">
   <figcaption>Vor, während und nach der Laserbehandlung.</figcaption>
 </figure>
 
