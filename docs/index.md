@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<figure style="margin: 0;">
-  <img src="{{site.baseurl}}/images/laser-flyer.png" alt="" style="height: 90vh; width: auto; max-width: 100%;" class="center">
+<figure style="width: 100%; height: 90vh; margin: 0;">
+  <img src="{{site.baseurl}}/images/laser-flyer.png" alt="" style="width: 100%; height: 100%; object-fit: contain;" class="center">
 </figure>
 
