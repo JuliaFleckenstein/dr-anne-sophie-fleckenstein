@@ -3,8 +3,8 @@ layout: default
 title: About
 ---
 
-<figure>
-  <img src="{{site.baseurl}}images/laser-flyer.png" alt="" style="width:50%" class="center">
+<figure style="margin: 0; width: 100vw; height: 100vh; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;">
+  <img src="{{site.baseurl}}/images/laser-flyer.png" alt="" style="width: 100%; height: 100%; object-fit: cover;" class="center">
 </figure>
 
 <!-- # Informationen zur vaginalen Lasertherapie
