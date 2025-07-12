@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kontakt
+order: 2
 ---
 
 ### Frauenärzte am Flößerhof

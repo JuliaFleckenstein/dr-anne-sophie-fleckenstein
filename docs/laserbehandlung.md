@@ -1,6 +1,7 @@
 ---
 layout: page
-title: vaginale Lasertherapie
+title: Vaginale Lasertherapie
+order: 1
 ---
 
 
