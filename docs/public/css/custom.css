@@ -2,3 +2,9 @@
 .small-nav-item {
   font-size: 0.8em; /* Adjust the size as needed */
 }
+
+.sidebar-logo {
+  display: block;
+  margin: 0 auto 1em;
+  max-width: 150px; /* Adjust the size as needed */
+}
