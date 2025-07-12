@@ -1,0 +1,4 @@
+/* Smaller font for specific nav items */
+.small-nav-item {
+  font-size: 0.8em; /* Adjust the size as needed */
+}
