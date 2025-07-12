@@ -88,8 +88,9 @@ Vor der Behandlung wird eine betäubende Creme aufgetragen. Die Behandlung selbs
 erfolgt auf dem gynäkologischen Stuhl. Der Arzt/die Ärztin führt eine Sonde in die Scheide
 ein und bestrahlt die Schleimhaut mit dem Laser.
 
+
 <figure>
-  <img src="{{site.baseurl}}images/lasersonde.png" alt="Die Lasersonde intravaginal dargestellt." style="width:50%" class="center">
+  <img src="{{site.baseurl}}images/querschnitt-weibliches-Becken.jpg" alt="Die Lasersonde intravaginal dargestellt." style="width:50%" class="center">
   <figcaption>Die Lasersonde intravaginal dargestellt.</figcaption>
 </figure>
 

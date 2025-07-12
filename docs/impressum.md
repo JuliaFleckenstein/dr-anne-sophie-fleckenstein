@@ -31,17 +31,15 @@ title: Impressum
 >
 >Ärztekammer
 >
->Hässische Landesärztekammer
+>Hessische Landesärztekammer am 29. April 2015
 >
->XXX
->
->XXX Frankfurt am Main
+>Frankfurt am Main
 >
 >(http://www.blaek.de)[http://www.blaek.de]
 
 **Kassenärztliche Vereinigung (zuständige Aufsichtsbehörde)**:
 
->Kassenärztliche Vereinigung Bayerns
+>Kassenärztliche Vereinigung Bayern
 >
 >Elsenheimerstr. 39
 >
