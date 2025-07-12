@@ -88,12 +88,10 @@ Vor der Behandlung wird eine betäubende Creme aufgetragen. Die Behandlung selbs
 erfolgt auf dem gynäkologischen Stuhl. Der Arzt/die Ärztin führt eine Sonde in die Scheide
 ein und bestrahlt die Schleimhaut mit dem Laser.
 
-querschnitt-weibliches-Becken.jpg
-
 
 <figure>
-  <img src="{{site.baseurl}}images/lasersonde.png" alt="Die Lasersonde intravaginal dargestellt." style="width:50%" class="center">
-  <figcaption>Die Lasersonde intravaginal dargestellt.</figcaption>
+  <img src="{{site.baseurl}}images/querschnitt-weibliches-Becken.jpg" alt="Querschnitt durch das weibliche Becken." style="width:50%" class="center">
+  <figcaption>Querschnitt durch das weibliche Becken.</figcaption>
 </figure>
 
 #### Wie lange dauert die Laserbehandlung?
@@ -164,28 +162,10 @@ Schwimmbad verzichten.
 Dieser Text dient **nur** zur allgemeinen Information. Er ersetzt kein persönliches Gespräch
 
 ### Bilder zum besseren Verständnis
-<div class="image-container" style="display: flex; justify-content: space-around;">
-  <div style="text-align: center;">
-    <img src="{{site.baseurl}}images/picture1.png" alt="Image 1" style="width: 100%; height: auto;">
-    <p>Vor der Laserbehandlung</p>
-    <p><small>Credit: Dr. med. Andrzej Kuszka</small></p>
-  </div>
-  <div style="text-align: center;">
-    <img src="{{site.baseurl}}images/picture2.png" alt="Image 2" style="width: 100%; height: auto;">
-    <p>Nach der Laserbehandlung</p>
-    <p><small>Credit: Dr. med. Andrzej Kuszka</small></p>
-  </div>
-</div>
 
-<div class="image-container" style="display: flex; justify-content: space-around;">
-  <div style="text-align: center;">
-    <img src="{{site.baseurl}}images/picture3.png" alt="Image 1" style="width: 100%; height: auto;">
-    <p>Vor der Laserbehandlung</p>
-    <p><small>Credit: Dr. med. Andrzej Kuszka</small></p>
-  </div>
-  <div style="text-align: center;">
-    <img src="{{site.baseurl}}images/picture4.png" alt="Image 2" style="width: 100%; height: auto;">
-    <p>Nach der Laserbehandlung</p>
-    <p><small>Credit: Dr. med. Andrzej Kuszka</small></p>
-  </div>
-</div>
+<figure>
+  <img src="{{site.baseurl}}images/picture-new.jpg" alt="Vor, während und nach der Laserbehandlung." style="width:50%" class="center">
+  <figcaption>Vor, während und nach der Laserbehandlung.</figcaption>
+</figure>
+
+#### Herzlichen Dank an für die Bereitstellung des Bildmaterials an Achim Schmieder Firma INTROS-Laser
