@@ -11,7 +11,7 @@ title: Impressum
 >
 >Dr. Franz Stechele I Dr. Katrin Denkinger
 >
->Adolph-Kolping-Str. 130
+>Adolph-Kolping-Str. 130a
 >
 >86899 Landsberg am Lech
 >
@@ -29,13 +29,13 @@ title: Impressum
 
 >Bundesrepublik Deutschland
 >
->Ärztekammer
+>Landesärztekammer Hessen
 >
->Hessische Landesärztekammer am 29. April 2015
+>erlangt am 29. April 2015
 >
 >Frankfurt am Main
 >
->(http://www.blaek.de)[http://www.blaek.de]
+>[http://www.laekh.de](http://www.laekh.de)
 
 **Kassenärztliche Vereinigung (zuständige Aufsichtsbehörde)**:
 
