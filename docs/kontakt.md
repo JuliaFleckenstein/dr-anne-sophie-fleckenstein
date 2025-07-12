@@ -24,6 +24,6 @@ Dr. Franz Stechele I Dr. Katrin Denkinger
 
 
 <figure style="float: left; width: 50%; margin: 0 0 1em 1em;">
-  <img src="{{site.baseurl}}/images/dr-fleckenstein.jpg" alt="Dr. Anne-Sophie Fleckenstein." style="width:100%">
+  <img src="{{site.baseurl}}/images/dr-fleckenstein.jpg" alt="Dr. Anne-Sophie Fleckenstein." style="width:50%">
   <figcaption>Dr. Anne-Sophie Fleckenstein.</figcaption>
 </figure>
